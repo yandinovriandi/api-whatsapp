@@ -1,6 +1,6 @@
 # api-whatsapp
 
-An implementation of [@yandinovriandi/api-whatsapp](https://github.com/yandinovriandi/api-whatsapp) as a simple RESTful API service with multiple device support. This project implements both **Legacy** (Normal WhatsApp Web) and **Beta Multi-Device** client so that you can choose and use one of them easily.
+An implementation of [here](https://github.com/adiwajshing/Baileys) as a simple RESTful API service with multiple device support. This project implements both **Legacy** (Normal WhatsApp Web) and **Beta Multi-Device** client so that you can choose and use one of them easily.
 
 ## Requirements
 
